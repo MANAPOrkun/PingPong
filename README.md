@@ -7,4 +7,5 @@ Two player ping pong game in Unity
 
 **Player 2** -> Up for up arrow key, Down for down arrow key
 
-![](ponggif.gif)
+![](menu.gif)
+![](gameplay.gif)
